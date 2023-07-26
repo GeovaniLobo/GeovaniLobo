@@ -1,2 +1,2 @@
-Olá, Meu nome é Geovani Lobo, atualmente estou na área de programação como Front-End mas também estou estudando back-end.
-No momento estou estudando JavaScript e React.
+Olá, estou fazendo uma transição de carreira para programador e será um prazer ter você por aqui!
+Estou estudando HTML, CSS e JavaScript no momento, porém pretendo me tornar um programador FullStack. Tenho facilidade em aprender, principalmente quando o assunto é tecnologia.
